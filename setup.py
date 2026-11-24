@@ -7,5 +7,5 @@ setup(
     py_modules=["sam_builder"],
     install_requires=["pyyaml>=6.0"],
     entry_points={"console_scripts": ["sam-builder=sam_builder:main"]},
-    python_requires=">=3.8",
+    python_requires=">=3.9",
 )

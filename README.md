@@ -50,7 +50,7 @@ Each case has an end-to-end test that runs against a fake `sam` CLI recording ev
 
 ## Install
 
-Requires Python 3.8+ and the [AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html).
+Requires Python 3.9+ and the [AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html).
 
 ```bash
 git clone https://github.com/eviorthegg/sam-fast-builder
